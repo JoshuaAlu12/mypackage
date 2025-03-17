@@ -1,1 +1,5 @@
 from . import myModule
+"""
+Lorem
+
+"""
